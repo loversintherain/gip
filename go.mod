@@ -1,3 +1,3 @@
-module github.com/lovesintherain/gip
+module github.com/loversintherain/gip
 
 go 1.16
