@@ -24,4 +24,3 @@ func GetExternalIP() (ips []string, err error) {
 	}
 	return
 }
-adasd
